@@ -1,0 +1,7 @@
+.env
+/__pycache__
+cloudflared.exe
+frpc.exe
+frpc.toml
+cloudflared
+frpc
